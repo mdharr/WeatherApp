@@ -1,4 +1,4 @@
-package com.mdharr.weather_app;
+package com.mdharr.weatherapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

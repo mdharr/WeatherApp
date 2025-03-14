@@ -1,4 +1,4 @@
-package com.mdharr.weather_app;
+package com.mdharr.weatherapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
